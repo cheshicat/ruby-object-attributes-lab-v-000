@@ -22,7 +22,6 @@ class Person
 
 end
 
-fido = Dog.new
-fido.name = "Fido"
-snoopy = Dog.new
-snoopy.breed = "Beagle"
+beyonce = Person.new
+beyonce.name = "Beyonce"
+beyonce.job = "Singer"
